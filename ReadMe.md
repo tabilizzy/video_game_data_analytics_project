@@ -43,4 +43,31 @@ This project offers two separate implementations :
 * Fills missing Publisher data fields with the fallback string 'Unknown'.
 * Loops through all regional and global sales metrics, plugging remaining gaps with column-specific median sales figures.
 
-## 3. Visulization with Tabluea 
+## 3. Visulization with Tableau 
+[Click here to View Dashboard](https://public.tableau.com/app/profile/tabi.lizzy/viz/GlobalVideoGameIndustry/Sheet1?publish=yes)
+
+* Sheet 1: Global Sales Trend Over Time using a Line chart
+Insight:
+Gaming sales surged between 2005–2010, driven largely by Wii, DS, Xbox 360, and PS3 releases
+
+* Sheet 2: Top Platforms by Sales using a Horizontal Bar Chart
+Insight:
+Wii, PS2, DS, and Xbox 360 dominate lifetime sales
+
+* Sheet 3: Genre Performance using a Treemap
+Insight:
+Action and Sports games contribute the largest share of global revenue.
+
+* Sheet 4: Publisher Market Share using a Packed Bubble Chart
+Insight:
+Nintendo, Electronic Arts, and Activision control a significant portion of the market.
+
+* Sheet 5: Top Selling Games using a Bar Chart
+Insight:
+Wii Sports remains the highest-selling game globally
+
+* Sheet 6: Regional Sales Comparison using a Bar Chart
+Insight:
+North America consistently generates the highest sales volume, while Japan shows strong preference for specific franchises
+
+
