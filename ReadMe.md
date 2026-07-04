@@ -44,7 +44,7 @@ This project offers two separate implementations :
 * Loops through all regional and global sales metrics, plugging remaining gaps with column-specific median sales figures.
 
 ## 3. Visulization with Tableau 
-[Click here to View Dashboard](https://public.tableau.com/app/profile/tabi.lizzy/viz/GlobalVideoGameIndustry/Sheet1?publish=yes)
+[Click here to View Dashboard](https://public.tableau.com/app/profile/isabel2946/viz/VisualisingSurveyData_16922855644490/VisualisingLikertScales)
 
 * Sheet 1: Global Sales Trend Over Time using a Line chart
 Insight:
